@@ -1,0 +1,204 @@
+<!-- edit_profile.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Profile</title>
+
+
+        <style>
+    @import 'https://fonts.googleapis.com/css?family=Raleway';
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('/static/assets/images/background.jpeg');
+    background-size: cover;
+    background-position: center;
+    font-family: 'Raleway', sans-serif; /* Added font-family */
+}
+
+.translucent-block {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    min-height: 100vh; /* Changed height to min-height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-text {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    padding: 20px;
+}
+
+header h1 {
+    color: #AAA;
+    font-size: 40px;
+    font-weight: lighter;
+    margin-bottom: 20px;
+}
+
+header span {
+    color: #222;
+}
+
+footer span {
+    color: #AAA;
+}
+
+.copyright-area {
+    background: #202020;
+    padding: 25px 0;
+    text-align: center;
+}
+
+.copyright-text p {
+    margin: 0;
+    font-size: 14px;
+    color: #878787;
+}
+
+.copyright-text p a {
+    color: #009688;
+}
+
+.teal {
+    background: #009688;
+    height: 75px;
+}
+
+.gray {
+    background: #9e9e9e;
+}
+
+/* Top and Bottom borders go out */
+.teal .borderYtoX a:before,
+.teal .borderYtoX a:after {
+    opacity: 0.5;
+    height: 100%;
+    width: 2px;
+    content: '';
+    background: #FFF;
+    transition: all 0.3s;
+    position: absolute;
+}
+
+.teal .borderYtoX a:before {
+    left: 0px;
+    top: 100px;
+}
+
+.teal .borderYtoX a:after {
+    right: 0px;
+    bottom: 100px;
+}
+
+.teal .borderYtoX a:hover:before,
+.teal .borderYtoX a:hover:after {
+    opacity: 1;
+    height: 2px;
+    width: 100%;
+}
+
+.animated-link {
+    display: inline-block;
+    color: #009688;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0px 10px;
+    padding: 10px 10px;
+    position: relative;
+    z-index: 0;
+    cursor: pointer;
+}
+
+.animated-link:before,
+.animated-link:after {
+    opacity: 0.5;
+    height: 100%;
+    width: 2px;
+    content: '';
+    background: #cccccc;
+    transition: all 0.3s;
+    position: absolute;
+}
+
+.animated-link:before {
+    left: 0px;
+    top: 0px;
+}
+
+.animated-link:after {
+    right: 0px;
+    bottom: 0px;
+}
+
+.animated-link:hover:before,
+.animated-link:hover:after {
+    opacity: 1;
+    height: 2px;
+    width: 100%;
+}
+
+#navbar {
+    text-align: center;
+    padding: 20px 40px;
+    margin: 0 auto;
+}
+
+.profile-info {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+
+.profile-picture {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #ccc;
+    margin-right: 10px;
+    background-image: url('/static/assets/images/user.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.account-name {
+    color: #FFF;
+    text-decoration: none;
+    font-size: 20px; /* Changed font-size */
+}
+
+
+
+
+/* Adaptation for smaller screens */
+@media only screen and (max-width: 768px) {
+    .profile-card {
+        max-width: 90%;
+    }
+}
+
+
+    </style>
+
+</head>
+<body>
+                <div class="translucent-block">
+        <div class="main-text">
+    <h1>Edit Profile</h1>
+<form id="profileForm" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <a href="#" class="animated-link" onclick="document.getElementById('profileForm').submit(); return false;">Save</a>
+</form>
+
+            <div/>
+            <div/>
+</body>
+</html>
