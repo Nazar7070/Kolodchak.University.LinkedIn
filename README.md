@@ -24,7 +24,7 @@ Add your task decomposition here.
   - [ ] Implement OAuth 2.0 authentication with Google account
   
 ###Week 2:
-  - Implement feature: Connection Management
+  - [x] Implement feature: Connection Management
   - Develop front-end UI for user profiles
   - Write unit tests for authentication module
   - Create API endpoints for user connections
