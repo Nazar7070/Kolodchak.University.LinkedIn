@@ -16,9 +16,24 @@ Add your project documentation here.
 ## Project Task Decomposition
 Add your task decomposition here.
 
-### Week 1:
-- Implement feature: User Registration and User Login
-- Setup Azure Web App
-- Setup Azure SQL Database
-- Create basic project structure in GitHub repository ✔️
-- Set up Continuous Integration/Continuous Delivery pipeline
+###Week 1:
+  - Implement feature: User Profiles
+  - Set up GitHub repository
+  - Configure Continuous Integration/Continuous Delivery
+  - Design database schema
+  - Implement OAuth 2.0 authentication with Google account
+  
+###Week 2:
+  - Implement feature: Connection Management
+  - Develop front-end UI for user profiles
+  - Write unit tests for authentication module
+  - Create API endpoints for user connections
+  - Design notification system
+  
+###Week 3:
+  - Implement feature: Job Board
+  - Integrate email notification system
+  - Enhance user profile UI with additional fields
+  - Write unit tests for connection management module
+  - Implement search functionality for job listings
+
