@@ -18,10 +18,10 @@ Add your task decomposition here.
 
 ###Week 1:
   - [x] Implement feature: User Profiles  
-  - Set up GitHub repository
-  - Configure Continuous Integration/Continuous Delivery
-  - Design database schema
-  - Implement OAuth 2.0 authentication with Google account
+  - [x] Set up GitHub repository
+  - [ ] Configure Continuous Integration/Continuous Delivery
+  - [x] Design database schema
+  - [ ] Implement OAuth 2.0 authentication with Google account
   
 ###Week 2:
   - Implement feature: Connection Management
