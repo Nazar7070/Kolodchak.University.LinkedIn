@@ -17,7 +17,7 @@ Add your project documentation here.
 Add your task decomposition here.
 
 ###Week 1:
-  - [ ] Implement feature: User Profiles  
+  - [x] Implement feature: User Profiles  
   - Set up GitHub repository
   - Configure Continuous Integration/Continuous Delivery
   - Design database schema
