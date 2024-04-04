@@ -16,14 +16,14 @@ Add your project documentation here.
 ## Project Task Decomposition
 Add your task decomposition here.
 
-###Week 1:
+Week 1:
   - [x] Implement feature: User Profiles  
   - [x] Set up GitHub repository
   - [ ] Configure Continuous Integration/Continuous Delivery
   - [x] Design database schema
   - [ ] Implement OAuth 2.0 authentication with Google account
   
-###Week 2:
+Week 2:
   - [x] Implement feature: Connection Management
   - Develop front-end UI for user profiles
   - Write unit tests for authentication module
@@ -36,4 +36,68 @@ Add your task decomposition here.
   - Enhance user profile UI with additional fields
   - Write unit tests for connection management module
   - Implement search functionality for job listings
+
+Week 4:
+  - Implement feature: Discussion Forums
+  - Develop UI for job board and job listing pages
+  - Write unit tests for job board functionality
+  - Implement messaging system backend
+  - Design and implement event hosting feature
+  
+Week 5:
+  - Implement feature: Messaging System
+  - Enhance UI for discussion forums
+  - Write unit tests for messaging system
+  - Implement notification center functionality
+  - Integrate real-time updates for notifications
+  
+Week 6:
+  - Implement feature: Notification Center
+  - Refine UI for messaging system
+  - Write unit tests for notification center
+  - Implement advanced search filters
+  - Design and implement profile analytics
+  
+Week 7:
+  - Implement feature: Search Functionality
+  - Enhance UI for notification center
+  - Write unit tests for search functionality
+  - Implement recommendation system backend
+  - Design and implement user dashboard
+  
+Week 8:
+  - Implement feature: Profile Analytics
+  - Refine UI for search functionality
+  - Write unit tests for profile analytics
+  - Implement privacy settings functionality
+  - Integrate analytics dashboard with user profiles
+  
+Week 9:
+  - Implement feature: Event Hosting
+  - Enhance UI for profile analytics
+  - Write unit tests for event hosting
+  - Implement recommendation system frontend
+  - Design and implement privacy settings UI
+  
+Week 10:
+  - Implement feature: Recommendation System
+  - Refine UI for event hosting
+  - Write unit tests for recommendation system
+  - Implement user dashboard widgets
+  - Conduct integration testing for all features
+  
+Week 11:
+  - Implement feature: User Dashboard
+  - Enhance UI for recommendation system
+  - Write integration tests for user dashboard
+  - Conduct end-to-end testing for critical user flows
+  - Prepare for deployment
+  
+Week 12:
+  - Finalize testing and debugging
+  - Prepare documentation for deployment
+  - Optimize application performance
+  - Deploy to production environment
+  - Conduct post-deployment checks and monitoring
+
 
