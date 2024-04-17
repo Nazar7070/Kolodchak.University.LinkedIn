@@ -19,16 +19,16 @@ Add your task decomposition here.
 Week 1:
   - [x] Implement feature: User Profiles  
   - [x] Set up GitHub repository
-  - [ ] Configure Continuous Integration/Continuous Delivery
+  - [x] Configure Continuous Integration/Continuous Delivery
   - [x] Design database schema
-  - [ ] Implement OAuth 2.0 authentication with Google account
+  - [x] Implement OAuth 2.0 authentication with Google account
   
 Week 2:
   - [x] Implement feature: Connection Management
-  - Develop front-end UI for user profiles
-  - Write unit tests for authentication module
-  - Create API endpoints for user connections
-  - Design notification system
+  - [x] Develop front-end UI for user profiles
+  - [x] Write unit tests for authentication module
+  - [x] Create API endpoints for user connections
+  - [x] Design notification system
   
 ###Week 3:
   - Implement feature: Job Board
