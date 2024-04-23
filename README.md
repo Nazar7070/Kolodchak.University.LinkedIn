@@ -33,8 +33,8 @@ Week 2:
 ###Week 3:
   - Implement feature: Job Board
   - Integrate email notification system
-  - Enhance user profile UI with additional fields
-  - Write unit tests for connection management module
+  - [x] Enhance user profile UI with additional fields
+  - [x] Write unit tests for connection management module
   - Implement search functionality for job listings
 
 Week 4:
@@ -66,11 +66,11 @@ Week 7:
   - Design and implement user dashboard
   
 Week 8:
-  - Implement feature: Profile Analytics
+  - [x] Implement feature: Profile Analytics
   - Refine UI for search functionality
   - Write unit tests for profile analytics
   - Implement privacy settings functionality
-  - Integrate analytics dashboard with user profiles
+  - [x] Integrate analytics dashboard with user profiles
   
 Week 9:
   - Implement feature: Event Hosting
