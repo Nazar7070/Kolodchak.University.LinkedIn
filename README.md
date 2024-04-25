@@ -31,7 +31,7 @@ Week 2:
   - [x] Design notification system
   
 ###Week 3:
-  - Implement feature: Job Board
+  - [x] Implement feature: Job Board
   - Integrate email notification system
   - [x] Enhance user profile UI with additional fields
   - [x] Write unit tests for connection management module
@@ -83,7 +83,7 @@ Week 10:
   - Implement feature: Recommendation System
   - Refine UI for event hosting
   - Write unit tests for recommendation system
-  - Implement user dashboard widgets
+  - [x] Implement user dashboard widgets
   - Conduct integration testing for all features
   
 Week 11:
