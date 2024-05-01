@@ -73,10 +73,10 @@ Week 8:
   - [x] Integrate analytics dashboard with user profiles
   
 Week 9:
-  - Implement feature: Event Hosting
-  - Enhance UI for profile analytics
+  - [x] Implement feature: Event Hosting
+  - [x] Enhance UI for profile analytics
   - Write unit tests for event hosting
-  - Implement recommendation system frontend
+  - [x] Implement recommendation system frontend
   - Design and implement privacy settings UI
   
 Week 10:
