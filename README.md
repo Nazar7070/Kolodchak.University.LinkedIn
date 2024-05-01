@@ -80,11 +80,11 @@ Week 9:
   - Design and implement privacy settings UI
   
 Week 10:
-  - [x] Implement feature: Recommendation System
-  - [x] Refine UI for event hosting
+  - Implement feature: Recommendation System
+  - Refine UI for event hosting
   - Write unit tests for recommendation system
-  - [x] Implement user dashboard widgets
-  - [x] Conduct integration testing for all features
+  - Implement user dashboard widgets
+  - Conduct integration testing for all features
   
 Week 11:
   - Implement feature: User Dashboard
