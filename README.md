@@ -82,7 +82,7 @@ Week 9:
 Week 10:
   - [x] Implement feature: Recommendation System
   - [x] Refine UI for event hosting
-  - [x] Write unit tests for recommendation system
+  - Write unit tests for recommendation system
   - [x] Implement user dashboard widgets
   - [x] Conduct integration testing for all features
   
