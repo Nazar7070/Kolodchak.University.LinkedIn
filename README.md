@@ -74,7 +74,7 @@ Week 8:
   
 Week 9:
   - [x] Implement feature: Event Hosting
-  - [x] Enhance UI for profile analytics
+  - Enhance UI for profile analytics
   - Write unit tests for event hosting
   - [x] Implement recommendation system frontend
   - Design and implement privacy settings UI
