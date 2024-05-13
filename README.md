@@ -59,7 +59,7 @@ Week 6:
   - Design and implement profile analytics
   
 Week 7:
-  - Implement feature: Search Functionality
+  - [x] Implement feature: Search Functionality
   - Enhance UI for notification center
   - Write unit tests for search functionality
   - [x] Implement recommendation system backend
