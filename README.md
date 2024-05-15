@@ -91,7 +91,7 @@ Week 11:
   - [x] Enhance UI for recommendation system
   - Write integration tests for user dashboard
   - Conduct end-to-end testing for critical user flows
-  - [x] Prepare for deployment
+  - Prepare for deployment
   
 Week 12:
   - Finalize testing and debugging
