@@ -96,7 +96,7 @@ Week 11:
 Week 12:
   - Finalize testing and debugging
   - Prepare documentation for deployment
-  - Optimize application performance
+  - [x] Optimize application performance
   - Deploy to production environment
   - Conduct post-deployment checks and monitoring
 
