@@ -26,9 +26,9 @@ Week 1:
 Week 2:
   - [x] Implement feature: Connection Management
   - [x] Develop front-end UI for user profiles
-  - [x] Write unit tests for authentication module
-  - [x] Create API endpoints for user connections
-  - [x] Design notification system
+  - Write unit tests for authentication module
+  - Create API endpoints for user connections
+  - Design notification system
   
 ###Week 3:
   - [x] Implement feature: Job Board
