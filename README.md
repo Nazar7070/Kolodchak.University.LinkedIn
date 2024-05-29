@@ -34,7 +34,7 @@ Week 2:
   - [x] Implement feature: Job Board
   - Integrate email notification system
   - [x] Enhance user profile UI with additional fields
-  - [x] Write unit tests for connection management module
+  - Write unit tests for connection management module
   - Implement search functionality for job listings
 
 Week 4:
