@@ -13,9 +13,9 @@ Add your getting started here.
 ## Project Documentation
 List of Application Features:
 
-[x] User Profiles: Users can create detailed profiles showcasing their professional experience, skills, and achievements.
+[x]  User Profiles: Users can create detailed profiles showcasing their professional experience, skills, and achievements.
 
-[x] Connection Management: Easily connect with other professionals to expand networks and explore collaboration opportunities.
+[x]  Connection Management: Easily connect with other professionals to expand networks and explore collaboration opportunities.
 
 • Job Board: Browse through job listings, post job openings, and apply for positions relevant to one's expertise.
 
@@ -31,7 +31,7 @@ List of Application Features:
 
 • Event Hosting: Organize and participate in professional events, webinars, and workshops.
 
-[x] Recommendation System: Receive personalized recommendations for connections, jobs, and relevant discussions.
+[x]  Recommendation System: Receive personalized recommendations for connections, jobs, and relevant discussions.
 
 • User Dashboard: Access a personalized dashboard summarizing profile activity, job applications, and upcoming events.
 
