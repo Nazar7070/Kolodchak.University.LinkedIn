@@ -14,16 +14,27 @@ Add your getting started here.
 List of Application Features:
 
 • User Profiles: Users can create detailed profiles showcasing their professional experience, skills, and achievements.
+
 • Connection Management: Easily connect with other professionals to expand networks and explore collaboration opportunities.
+
 • Job Board: Browse through job listings, post job openings, and apply for positions relevant to one's expertise.
+
 • Discussion Forums: Engage in industry-specific discussions and exchange insights with like-minded professionals.
+
 • Messaging System: Communicate seamlessly with connections via a built-in messaging system.
+
 • Notification Center: Stay updated with notifications about new connection requests, messages, and job opportunities.
+
 • Search Functionality: Find professionals, jobs, and discussions quickly using advanced search filters.
+
 • Profile Analytics: Gain insights into profile views, connection interactions, and job application statistics.
+
 • Event Hosting: Organize and participate in professional events, webinars, and workshops.
+
 • Recommendation System: Receive personalized recommendations for connections, jobs, and relevant discussions.
+
 • User Dashboard: Access a personalized dashboard summarizing profile activity, job applications, and upcoming events.
+
 • Privacy Settings: Customize privacy preferences to control visibility of profile information and activity.
 
 
